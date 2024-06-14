@@ -13,7 +13,7 @@ Webtree Assignment with Laravel 10  and MySql.
 1. **Setup**
     ```bash
     # Go into the repository
-    $ cd Moris-assignment
+    $ cd webtree-assignment-backend
 
     # Install dependencies
     $ composer install
@@ -33,7 +33,7 @@ Webtree Assignment with Laravel 10  and MySql.
 
     Setup your database credentials in your `.env` file.
 
-    $ php artisan migrate
+    $ php artisan key:generate
     $ php artisan db:seed
 
 

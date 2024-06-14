@@ -32,8 +32,13 @@ Webtree Assignment with Laravel 10  and MySql.
 1. **Setup Database**
 
     Setup your database credentials in your `.env` file.
-
+     ```bash
     $ php artisan key:generate
+
+1. **Setup Database**
+
+    databse seeder
+         ```bash
     $ php artisan db:seed
 
 

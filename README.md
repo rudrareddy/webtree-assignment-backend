@@ -35,13 +35,11 @@ Webtree Assignment with Laravel 10  and MySql.
      ```bash
     $ php artisan key:generate
 
-1. **Setup Database**
+1. **Database Seeder**
 
-    databse seeder
-         ```bash
-    $ php artisan db:seed
-
-
+        ```bash
+        $ php artisan db:seed
+        ```
 
 1. **Create Storage Link**
 

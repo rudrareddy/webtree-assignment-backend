@@ -8,7 +8,7 @@ Webtree Assignment with Laravel 10  and MySql.
 1.  **Clone Repository or Download**
 
     ```bash
-    $ git clone https://github.com/rudrareddy/Moris-assignment.git
+    $ git clone https://github.com/rudrareddy/webtree-assignment-backend.git
     ```
 1. **Setup**
     ```bash
@@ -37,9 +37,9 @@ Webtree Assignment with Laravel 10  and MySql.
 
 1. **Database Seeder**
 
-        ```bash
-        $ php artisan db:seed
-        ```
+    ```bash
+    $ php artisan db:seed
+    ```
 
 1. **Create Storage Link**
 
